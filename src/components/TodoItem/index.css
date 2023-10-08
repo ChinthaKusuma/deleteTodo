@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.btn1 {
+  color: #ff8542;
+  border-style: solid;
+  border-color: #ff8542;
+  background-color: white;
+  border-radius: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px;
+}
+.one {
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-between;
+}
